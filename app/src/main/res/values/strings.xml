@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ShotGun-The Quiz App</string>
+    <!--Instructions-->
+    <string name="Intsructions_heading">Instructions:</string>
+    <string name="Intsructions_1">\u2022 Must answer all questions</string>
+    <string name="Intsructions_2">\u2022 Each Carries 1 Point</string>
+    <string name="Intsructions_3">\u2022 Provide your valuable feedback</string>
+
+
+    <!--Customizing Questions -->
+    <!--Question1 -->
+    <string name="question_1">Question1: Signals should be given continuously for at ___ feet before turning </string>
+    <string name="question_1answer">Enter your Answer</string>
+    <!--Question2-->
+    <string name="question_2">Question2: A solid yellow line on your side of the center line means : </string>
+    <string name="question_2a"> No passing is allowed in either direction</string>
+    <string name="question_2b"> No passing is allowed from the oncoming lane</string>
+    <string name="question_2c"> No passing is allowed from your lane </string>
+    <string name="question_2d"> passing allowed when it is safe </string>
+    <!--Question3-->
+    <string name="question_3">Question3: When driving long distances, a driver should guard against accidents that  may result from </string>
+    <string name="question_3a"> Changing traffic patterns</string>
+    <string name="question_3b"> Changing weather and roads conditions </string>
+    <string name="question_3c"> No passing is allowed from your lane  </string>
+    <string name="question_3d"> passing allowed when it is safe  </string>
+    <!--Question4-->
+    <string name="question_4">Question3: What is the meaning of this sign ?  </string>
+    <string name="question_4a">  Pedestrian Crossing </string>
+    <string name="question_4b">  Bus stop  </string>
+    <string name="question_4c">  School zone  </string>
+    <string name="question_4d">  School crossing   </string>
+    <!--Submit Button-->
+    <string name="submit_button"> Submit </string>
+
+
+
+</resources>
+
